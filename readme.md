@@ -1,4 +1,4 @@
-Strps to run ledger rest api
+Steps to run ledger rest api
 
 1. Download zip file
 2. Unzip file
