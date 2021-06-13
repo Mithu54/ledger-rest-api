@@ -9,3 +9,6 @@ Steps to run ledger rest api
 7. Insert query string after '?' in format start_date=<YYYY-MM-DD>&end_date=<YYYY-MM-DD>&frequency=< WEEKLY, FORTNIGHTLY, MONTHLY>&weekly_rent=<Rent amount>&timezone= <TZ databasae format>
 
 Example: http://localhost:5000/ledger?start_date=2020-03-28&end_date=2020-05-27&frequency=MONTHLY&weekly_rent=400&timezone= Europe/Zurich
+  
+  Test
+  1. Run "npm test" on terminal
